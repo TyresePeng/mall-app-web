@@ -1026,7 +1026,7 @@
 		}
 	}
 
-	.detail-desc>>>img {
+	.detail-desc img {
 		width: 100%;
 		height: auto;
 	}
